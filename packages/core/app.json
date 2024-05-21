@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "core",
-    "slug": "core",
+    "name": "lumos",
+    "slug": "lumos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -38,9 +38,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "caed961a-2679-409e-bda8-e38eff745516"
+        "projectId": "3d3322e4-7d6c-4a73-a066-e2fc12f02218"
       }
     },
-    "owner": "maxtune"
+    "owner": "qingyou-fe"
   }
 }
