@@ -10,7 +10,8 @@
         "image": "latest"
       },
       "ios": {
-        "image": "latest"
+        "image": "latest",
+        "simulator": true
       }
     },
     "preview": {
